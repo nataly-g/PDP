@@ -1,6 +1,6 @@
 # My sample project
 
-This is my first task in scope of PDP
+This is my second task in scope of PDP
 
 # Prerequisites
 
@@ -11,12 +11,8 @@ npm (latest version)
 
 # Features
 
-At the moment, only reading file data is available, come back soon to see new features!
+At the moment, simple library project is created, stay tuned for new features!
 
 # To read infoFile.txt use the following command
 
-node readData
-OR
-node readData.js
-
-# Happy coding!
+node bookManagerExamples
